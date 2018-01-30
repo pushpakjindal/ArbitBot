@@ -1,0 +1,17 @@
+coin,exchange,buy,sell,depo,with
+btc,koinex,0.002,0,0,0.001
+bch,koinex,0.002,0,0,0.001
+ltc,koinex,0.002,0,0,0.01
+xrp,koinex,0.002,0,0,0.02
+eth,koinex,0.002,0,0,0.003
+btc,coinome,0.003,0.003,0,0.001
+bch,coinome,0.003,0.003,0,0.001
+ltc,coinome,0.003,0.003,0,0.005
+btc,coindelta,0.003,0.003,0,0.001
+bch,coindelta,0.003,0.003,0,0.001
+btg,coindelta,0.003,0.003,0,0.0001
+eth,coindelta,0.003,0.003,0,0.001
+ltc,coindelta,0.003,0.003,0,0.002
+omg,coindelta,0.003,0.003,0,0.1
+qtum,coindelta,0.003,0.003,0,0.01
+xrp,coindelta,0.003,0.003,0,0.01
